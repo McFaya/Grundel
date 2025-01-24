@@ -1,0 +1,6 @@
+player_name,goals_scored,goals_per_90,expected_goals,total_shots,shots_on_target,shot_accuracy,shot_conversion,big_chances_missed,assists,key_passes,pass_completion,crosses_completed,aerial_duels_won,distance_covered,progressive_carries
+Erling Haaland,25,0.85,20,90,45,80,35,8,10,35,75,12,20,95,30
+Harry Kane,22,0.75,18,85,42,78,32,10,12,40,80,15,25,90,25
+Mohamed Salah,20,0.65,15,80,40,75,30,12,8,32,72,10,15,85,20
+Kylian Mbappé,23,0.80,19,88,44,82,33,9,9,38,78,14,18,92,28
+Robert Lewandowski,21,0.70,17,82,41,76,31,11,7,30,70,8,22,88,22
