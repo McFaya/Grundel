@@ -2,13 +2,13 @@
 ","away team
 ","home goals
 ","away goals
-",home possession,"away possession
+",home possession %,"away possession%
 ",home shorts,"away shorts
 ","home shorts on target
 ",away shorts on target,"home expected goals
 ","away expected goals
-","home passes completed
-","away passes completed
+","home passes completed%
+","away passes completed%
 ",home ratings,"away ratings
 ",winner
 "Man United
