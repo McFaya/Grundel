@@ -1,0 +1,20 @@
+"home team
+","away team
+","home goals
+","away goals
+",home possession,"away possession
+",home shorts,"away shorts
+","home shorts on target
+",away shorts on target,"home expected goals
+","away expected goals
+","home passes completed
+","away passes completed
+",home ratings,"away ratings
+",winner
+"Man United
+",Fulham,1,0,55,45,14,10,5,2,2.43,0.44,85,80,7.08,6.54,H
+Wolves,Chelsea,2,6,40,60,12,14,4,8,1.96,1.68,79,86,6.48,7.14,A
+"Liverpool
+",Brentford,2,0,62,38,19,8,8,2,2.65,0.55,91,82,7.35,6.67,H
+Everton,"Aston Villa
+",0,1,50,50,10,11,3,3,1.14,1.21,81,83,6.3,7.7,A
