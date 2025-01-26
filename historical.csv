@@ -1,0 +1,21 @@
+date,home_team,away_team,home_goals,away_goals,outcome,home_xg,away_xg,home_rating,away_rating,home_possession,away_possession,home_shots_on_target,away_shots_on_target,home_total_shots,away_total_shots,home_corners,away_corners,home_fouls,away_fouls,home_yellow,away_yellow,home_red,away_red
+2022-08-05,Manchester City,Liverpool,3,2,H,2.1,1.8,8.4,8.2,58,42,6,4,15,12,5,3,8,10,2,1,0,0
+2022-08-06,Chelsea,Arsenal,1,1,D,1.4,1.5,7.9,7.8,52,48,3,5,10,14,4,6,12,9,3,2,0,0
+2022-08-13,Manchester United,Tottenham,2,0,H,1.9,0.9,8.1,7.7,49,51,5,1,12,8,7,2,10,14,1,3,0,0
+2022-08-14,Leicester City,West Ham,1,2,A,1.2,2.0,7.3,7.6,45,55,2,6,8,16,2,7,15,11,4,2,0,1
+2022-08-20,Aston Villa,Everton,3,1,H,2.4,1.1,7.5,6.9,54,46,7,2,18,9,6,4,9,13,2,4,0,0
+2022-08-21,Newcastle United,Brighton,0,0,D,0.8,1.2,7.1,7.0,43,57,1,3,6,11,2,5,16,12,5,2,0,0
+2022-08-27,Wolves,Southampton,2,1,H,1.7,1.3,7.2,6.8,50,50,4,3,10,9,3,4,13,15,3,5,0,0
+2022-08-28,Leeds United,Brentford,1,3,A,1.0,2.5,6.9,7.4,38,62,2,7,5,17,1,8,18,7,6,1,1,0
+2022-09-03,Liverpool,Crystal Palace,4,0,H,3.2,0.6,8.3,6.7,68,32,9,1,20,4,8,1,6,19,1,4,0,0
+2022-09-04,Arsenal,Manchester City,1,2,A,1.3,2.2,7.8,8.5,44,56,4,5,9,13,3,6,11,8,2,1,0,0
+2022-09-10,Tottenham,Chelsea,2,2,D,1.8,2.0,7.7,8.0,47,53,5,6,12,15,4,5,14,16,4,3,0,0
+2022-09-11,West Ham,Manchester United,1,1,D,1.5,1.6,7.4,8.0,41,59,3,4,7,10,2,4,17,9,5,2,0,0
+2022-09-17,Brighton,Leicester City,2,1,H,1.9,1.2,7.2,7.3,60,40,6,3,14,7,7,2,8,13,1,3,0,0
+2022-09-18,Everton,Wolves,0,2,A,0.7,1.8,6.8,7.1,35,65,1,5,3,14,1,6,20,6,6,1,1,0
+2022-09-24,Southampton,Newcastle United,1,4,A,1.1,3.1,6.6,7.5,39,61,2,8,5,19,3,9,14,7,3,2,0,0
+2022-09-25,Brentford,Aston Villa,3,2,H,2.3,1.7,7.3,7.4,51,49,7,4,16,10,5,4,10,11,2,3,0,0
+2022-10-01,Crystal Palace,Leeds United,2,0,H,1.6,0.9,6.9,7.0,53,47,5,2,12,6,4,2,12,15,2,4,0,0
+2022-10-02,Manchester City,West Ham,4,1,H,3.0,0.8,8.6,7.2,63,37,8,2,19,5,9,1,5,16,0,5,0,0
+2022-10-08,Arsenal,Tottenham,3,1,H,2.5,1.1,7.9,7.6,57,43,7,3,16,8,6,3,9,12,1,2,0,0
+2022-10-09,Liverpool,Chelsea,2,2,D,2.2,2.3,8.3,8.1,55,45,6,7,14,16,5,7,10,13,2,3,0,0
